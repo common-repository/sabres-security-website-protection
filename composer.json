@@ -1,0 +1,19 @@
+{
+  "name": "sabres/wp-store-plugin",
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "repositories": {
+    "packagist": {
+      "url": "https://packagist.org",
+      "type": "composer"
+    }
+  },
+  "require": {
+    "php": "=5.3.10",
+    "gregwar/captcha": "1.*"
+  },
+  "require-dev": {
+    "mikey179/vfsStream": "1.6.4"
+  }
+}
